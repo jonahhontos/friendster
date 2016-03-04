@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jonahhontos/friendster/issues"
   },
-  "homepage": "https://github.com/jonahhontos/friendster#readme"
+  "homepage": "https://github.com/jonahhontos/friendster#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
